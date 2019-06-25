@@ -1,0 +1,7 @@
+{
+  "name": "mechanical-assistant",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
